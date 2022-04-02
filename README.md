@@ -1,6 +1,6 @@
 # Looping and Handling Error
 
-##Looping
+## Looping
 In this chapter, we’ll build a Guess the Number program. The computer will pick a 
 random number between 1 and 20, and the user will have five attempts to guess the 
 number. For every incorrect guess, the computer will let the user know if the correct 
@@ -28,7 +28,7 @@ To learn how to build a game like this, this chapter covers the following topics
 • Building error-checking utility functions
 • Coding challenge
 
-##Handling Error
+## Handling Error
 exceptions can be handled using a try statement. The critical operation which can raise an exception is placed inside the try clause. The code that handles the exceptions is written in the except clause. We can thus choose what operations to perform once we have caught the exception
 
 
